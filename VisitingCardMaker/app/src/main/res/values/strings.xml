@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Visiting Card Maker</string>
+    <string name="visiting_card_maker">Visiting Card Maker</string>
+    <string name="enter_details">Enter Details : </string>
+    <string name="name">Name : </string>
+    <string name="birth_date">Birth Date : </string>
+    <string name="address">Address : </string>
+    <string name="phone_number">Phone Number : </string>
+    <string name="generate">Generate</string>
+    <string name="silly_fact">Silly Fact - Take Screenshot and crop the card :)</string>
+    <string name="eg_david_joy">Eg : David Joy</string>
+    <string name="eg_13_new_york_street">Eg : 13, NewYork Street</string>
+    <string name="eg_08_06_2002">Eg : 08/06/2002</string>
+    <string name="eg_98765432100">Eg : 987654321</string>
+</resources>
